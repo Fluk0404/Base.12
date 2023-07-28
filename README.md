@@ -1,6 +1,6 @@
 # Base1.2
 Servergame
-(GangyCity ประเทศเปิดใหม่ ระบบ เทส ) 
+
 # หาเช่าVps cloud server
 
 # วิธีเขียนserver fivem 
