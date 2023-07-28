@@ -1,4 +1,4 @@
-# Base Fivem1.2
+# Base Fivem1.24
 Servergame
 
 # หาเช่าVps cloud server
@@ -6,8 +6,8 @@ Servergame
 # วิธีเขียนserver fivem 
 # โหลด heidisql 
 https://www.heidisql.com/download.php
-# โหลด apacha
-https://httpd.apache.org/download.cgi#apache24
+# โหลด xampp
+https://xampp.com
 # โหลด visual studio code หรือ node.js
 https://code.visualstudio.com/
 https://nodejs.org/en
