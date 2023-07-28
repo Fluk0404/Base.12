@@ -1,5 +1,5 @@
-# Base Fivem1.24
-Servergame
+# Base Fivem1.2. 
+24 Servergame
 
 # หาเช่าVps cloud server
 
